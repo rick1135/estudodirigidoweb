@@ -1,0 +1,14 @@
+web\PessoaServlet.class
+model\Endereco.class
+web\PessoaService.class
+util\Util.class
+web\Relatorios.class
+model\Grupo.class
+web\PessoaNomeIdadeDto.class
+model\Pessoa.class
+model\PessoaEnderecoDTO.class
+model\Endereco$TipoLogradouro.class
+web\AtuacaoServiceLocal.class
+model\Telefone.class
+web\PessoaServiceLocal.class
+model\Atuacao.class
